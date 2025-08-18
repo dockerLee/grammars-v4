@@ -101,7 +101,7 @@
       "rollForward": false
     },
     "trconvert": {
-      "version": "0.23.17",
+      "version": "0.23.26",
       "commands": [
         "trconvert"
       ],
