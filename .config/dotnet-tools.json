@@ -87,7 +87,7 @@
       "rollForward": false
     },
     "trclonereplace": {
-      "version": "0.23.17",
+      "version": "0.23.26",
       "commands": [
         "trclonereplace"
       ],
